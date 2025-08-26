@@ -32,13 +32,10 @@
                 SemanticProperties.Hint="Para apagar"
                 Clicked="ApagarBtn_Clicked"
                 HorizontalOptions="Fill"/>
-                
+
+
+
             </HorizontalStackLayout>
-
-
-
-
-
 
 
 

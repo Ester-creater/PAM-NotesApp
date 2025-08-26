@@ -17,14 +17,12 @@
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
-
         <Button
                 x:Name="EnviarGitBtn"
                 Text="Ir para o GitHub" 
                 SemanticProperties.Hint="Vai para o GitHub"
                 Clicked="EnviarGitBtn_Clicked"
                 HorizontalOptions="Fill" />
-
 
         <Label 
             Text="Desenvolvido por: Heloisa"
